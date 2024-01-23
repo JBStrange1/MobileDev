@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBS.Calculator", "JBS.Calculator\JBS.Calculator.csproj", "{DEC66B76-E892-4F85-9D1A-369F8D68C5CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEC66B76-E892-4F85-9D1A-369F8D68C5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC66B76-E892-4F85-9D1A-369F8D68C5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC66B76-E892-4F85-9D1A-369F8D68C5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC66B76-E892-4F85-9D1A-369F8D68C5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D75FC49-1CD6-4252-8658-968F99C711EC}
+	EndGlobalSection
+EndGlobal
